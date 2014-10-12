@@ -11,3 +11,5 @@ Git is free software distributed under the GPL.
 Boss 是个大傻逼。
 
 Creating a new branch is quick.
+
+Creating a new branch is quick & simple.
